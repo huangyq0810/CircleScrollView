@@ -1,0 +1,22 @@
+{
+  "name": "CircleView",
+  "version": "0.1.0",
+  "summary": "A short description of CircleView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/huangyingqiu/CircleView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "huangyingqiu": "huangyq@adnonstop.com"
+  },
+  "source": {
+    "git": "https://github.com/huangyingqiu/CircleView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "CircleView/Classes/**/*"
+}
