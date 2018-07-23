@@ -1,0 +1,6 @@
+use_frameworks!
+target 'CircleView_Tests' do
+  pod 'CircleView', :path => '../'
+  
+  
+end
